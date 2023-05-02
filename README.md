@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on a final semester 4 project called Panenin<br>🌱 I’m currently learning Laravel<br>💬 Ask me about anything
+Hi 👋, I'm Abdullah Ali<br>🔭 I’m currently working on a final semester 4 project called [Panenin](https://github.com/abdlhli/Panenin)[Panenin Mobile](https://github.com/abdlhli/Panenin-Mobile)<br>🌱 I’m currently learning Laravel and Java<br>💬 Ask me about anything
 
 
 ## Socials:
