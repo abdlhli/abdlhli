@@ -2,7 +2,7 @@
 🔭 I’m currently working on a final semester 4 project called Panenin<br>🌱 I’m currently learning Laravel<br>💬 Ask me about anything
 
 
-## 🌐 Socials:
+## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Grims#7237) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdlh.li) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/GrimJack_)
 
 # Tech Stack:
