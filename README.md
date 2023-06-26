@@ -1,3 +1,8 @@
+<h1 align="center">
+Hi there 👋 I'm Aab.<br>I Design and Develop things.
+  <br><br>
+</h1>
+
 # About Me:
 👋 Hi, I'm Abdullah Ali<br>🔭 I’m currently working on a final semester 4 project called [Panenin](https://github.com/abdlhli/Panenin) & [Panenin Mobile](https://github.com/abdlhli/Panenin-Mobile)<br>🌱 I’m currently learning Laravel and Java<br>💬 Ask me about anything
 
