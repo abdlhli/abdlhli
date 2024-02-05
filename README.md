@@ -11,7 +11,7 @@ Hi there 👋 I'm Aab.<br>I Design and Develop things.
 🌟 On a journey to fuse tech skills and design insights into impactful products.<br>
 🏢 Dream of becoming a business owner, generating jobs, and enjoying financial freedom.<br>
 🌐 Let's connect and shape the digital future together!<br>
-📫 Feel free to reach out to me through [Linkedin](https://www.linkedin.com/in/abdullah-ali-7666b4228/) or check out my [Portfolio](abdlhli.site).<br>
+📫 Feel free to reach out to me through [Linkedin](https://www.linkedin.com/in/abdullah-ali-7666b4228/) or check out my [Portfolio](https://www.abdlhli.site).<br>
 
 <!--  
 ## Socials:
