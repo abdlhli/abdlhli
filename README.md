@@ -5,7 +5,7 @@ Hi there 👋 I'm Aab.<br>I Design and Develop things.
 
 # About Me:
 👋 Hello! I'm a student majoring in Informatics Engineering at Politeknik Negeri Jember, Indonesia.<br>
-🚀 Aspiring web and mobile developer, and UI/UX designer.<br>
+🚀 Aspiring web and mobile developer.<br>
 💻 Passionate about coding and creating captivating digital experiences.<br>
 🎨 Love diving into UI/UX design to make user-friendly interfaces.<br>
 🌟 On a journey to fuse tech skills and design insights into impactful products.<br>
