@@ -4,14 +4,14 @@ Hi there 👋 I'm Aab.<br>I Design and Develop things.
 </h1>
 
 # About Me:
-👋 Hello! I'm a student majoring in Informatics Engineering at Politeknik Negeri Jember, Indonesia.<br>
+👋 Hi! I'm an Informatics Engineering graduate from Politeknik Negeri Jember, Indonesia.
 🚀 Aspiring web and mobile developer.<br>
 💻 Passionate about coding and creating captivating digital experiences.<br>
 🎨 Love diving into UI/UX design to make user-friendly interfaces.<br>
 🌟 On a journey to fuse tech skills and design insights into impactful products.<br>
 🏢 Dream of becoming a business owner, generating jobs, and enjoying financial freedom.<br>
 🌐 Let's connect and shape the digital future together!<br>
-📫 Feel free to reach out to me through [Linkedin](https://www.linkedin.com/in/abdullah-ali-7666b4228/) or check out my [Portfolio](https://www.abdlhli.site).<br>
+📫 Feel free to reach out to me through [Linkedin](https://www.linkedin.com/in/abdullah-ali-7666b4228/).<br>
 
 <!--  
 ## Socials:
