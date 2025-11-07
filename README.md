@@ -4,7 +4,7 @@ Hi there 👋 I'm Aab.<br>I Design and Develop things.
 </h1>
 
 # About Me:
-👋 Hi! I'm an Informatics Engineering graduate from Politeknik Negeri Jember, Indonesia.
+👋 Hi! I'm an Informatics Engineering graduate from Politeknik Negeri Jember, Indonesia.<br>
 🚀 Aspiring web and mobile developer.<br>
 💻 Passionate about coding and creating captivating digital experiences.<br>
 🎨 Love diving into UI/UX design to make user-friendly interfaces.<br>
